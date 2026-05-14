@@ -7,6 +7,8 @@ They never are.
 
 I work with AI, full-stack development, databases, and computer vision — constantly learning, experimenting, and occasionally winning arguments against my own code.
 
+Right now I am building something based on GraphDB, LLMs but rate limits are a pain..
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavin-vetrivel-g-6a119928a/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vetrivelkavin5@gmail.com) 
 
